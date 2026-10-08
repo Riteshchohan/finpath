@@ -1,0 +1,4 @@
+-r requirements.txt
+torch>=2.2,<3
+chronos-forecasting>=2,<3
+sentence-transformers>=3,<6
